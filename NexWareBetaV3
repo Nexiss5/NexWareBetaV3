@@ -1,0 +1,3 @@
+if game.PlaceId == 9625096419 then -- Tapping Simulator (Russo)
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Nexiss5/NexWareBetaV2/main/NexWare"))()
+end
